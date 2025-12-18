@@ -1,4 +1,4 @@
-<h1 align="center">Hello 👋 I'm Hiruni Pramudika</h1>
+<h1 align="center">Hiruni Pramudika</h1>
 <h3 align="center">Aspiring Business Analyst</h3>
 <h3 align="center">👨‍💻</h3>
 
