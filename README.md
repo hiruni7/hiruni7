@@ -5,17 +5,17 @@
 
 
 ### Profile Summary
-- 👨‍💻 I’m currently pursuing my bachelors degree in Business Intelligence, **at Uva Wellassa University of Sri Lanka**
+- I’m currently pursuing my bachelors degree in Business Intelligence, **at Uva Wellassa University of Sri Lanka**
 
 - Currently working on my latest SQL + Python + Power BI Data Analysis project **and hope to practice how these technologies help in developing insightful dashboards etc.**
 
-- 🤝 I have hands-on experience, developing insightful Power BI dashboards and working with Python for data analysis, **and excited to learn more on this field.**
+- I have hands-on experience, developing insightful Power BI dashboards and working with Python for data analysis, **and excited to learn more on this field.**
 
 - Also you can connect with me by: [www.linkedin.com/in/hiruni-pramudika-4148a637b](www.linkedin.com/in/hiruni-pramudika-4148a637b)
 
 - Read my articles on Medium. [https://medium.com/@hirunipramudika7](https://medium.com/@hirunipramudika7)
 
-- 📫 You can reach me through my E-mail: **hirunipramudika7@gmail.com**
+- You can reach me through my E-mail: **hirunipramudika7@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
