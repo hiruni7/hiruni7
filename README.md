@@ -10,7 +10,7 @@
 
 - I have hands-on experience, developing insightful Power BI dashboards and working with Python for data analysis, **and excited to learn more on this field.**
 
-- Also you can connect with me by: [www.linkedin.com/in/hiruni-pramudika-4148a637b](www.linkedin.com/in/hiruni-pramudika-4148a637b)
+- You can connect with me by: [www.linkedin.com/in/hiruni-pramudika-4148a637b](www.linkedin.com/in/hiruni-pramudika-4148a637b)
 
 - Read my articles on Medium. [https://medium.com/@hirunipramudika7](https://medium.com/@hirunipramudika7)
 
