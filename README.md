@@ -6,7 +6,7 @@
 
 - I’m currently pursuing my bachelors degree in Business Intelligence, **at Uva Wellassa University of Sri Lanka**
 
-- Currently working on my latest SQL + Python + Power BI Data Analysis project **and hope to practice how these technologies help in developing insightful dashboards etc.**
+- Currently working on my latest SQL + Python + Power BI Data Analysis project **and hope to practice how these technologies help in developing insightful dashboards.**
 
 - I have hands-on experience, developing insightful Power BI dashboards and working with Python for data analysis, **and excited to learn more on this field.**
 
