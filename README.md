@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hiruni7&label=Profile%20views&color=0e75b6&style=flat" alt="hiruni7" /> </p>
 
-- I’m currently pursuing my bachelors degree in Business Intelligence, **at Uva Wellassa University of Sri Lanka**
+- I’m currently pursuing my bachelors degree specializing in Business Intelligence, **at Uva Wellassa University of Sri Lanka**
 
 - Currently working on my latest SQL + Python + Power BI Data Analysis project **and hope to practice how these technologies help in developing insightful dashboards.**
 
