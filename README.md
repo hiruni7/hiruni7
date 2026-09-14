@@ -1,5 +1,5 @@
 <h1 align="center">Hiruni Pramudika</h1>
-<h3 align="center">Aspiring Business Analyst</h3>
+<h3 align="center">Intern Business Analyst</h3>
 <h3 align="center">👨‍💻</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hiruni7&label=Profile%20views&color=0e75b6&style=flat" alt="hiruni7" /> </p>
